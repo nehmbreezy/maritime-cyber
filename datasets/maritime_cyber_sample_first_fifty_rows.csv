@@ -1,267 +1,267 @@
-"","Date","Title","Description","Type","Source","News_Category","News_Article","Cyber_Target","Cyber_Target_Category","Cyber_Objective","Cyber_Source_2","Cyber_Source_3"
-"1","2020-02-28","Chinese navy accused of using laser on US military aircraft","Chinese militaryChinese navy accused of using laser on US military aircraftIncident is the first use of such weapons by a PLA vessel, says Washington							
+"","Date","Type","Title","Description","Source","News_Category","News_Article","Cyber_Target","Cyber_Target_Category","Cyber_Objective","Cyber_Source_2","Cyber_Source_3"
+"1","2020-02-28","NEWS","Chinese navy accused of using laser on US military aircraft","Chinese militaryChinese navy accused of using laser on US military aircraftIncident is the first use of such weapons by a PLA vessel, says Washington							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/40200be8-59f7-11ea-a528-dd0f971febbc","Chinese military",NA,NA,NA,NA,NA,NA
-"2","2019-12-20","Japan to raise military spending to new record","Japan to raise military spending to new recordInvestment in air defence to counter perceived threat from China and North Korea							
+									","https://www.ft.com/content/40200be8-59f7-11ea-a528-dd0f971febbc","Chinese military",NA,NA,NA,NA,NA,NA
+"2","2019-12-20","NEWS","Japan to raise military spending to new record","Japan to raise military spending to new recordInvestment in air defence to counter perceived threat from China and North Korea							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/9e897000-22ef-11ea-b8a1-584213ee7b2b","",NA,NA,NA,NA,NA,NA
-"526","2019-12-12","Targeting of telecom companies across Africa, Europe, and Southeast Asia - Gallium","Gallium, an allegedly China-aligned threat actor, attacked telecom companies across the globe for several months.","CYBER INCIDENT","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",NA,NA,"Telecom companies in Africa, Europe, and Southeast Asia","Private sector","Espionage","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/"
-"519","2019-12-07","Targeting of the Cambodian government - Rancor","The China-linked threat actor group Rancor targeted unnamed Cambodian government entities.","CYBER INCIDENT","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/",NA,NA,"Cambodian government","Government","Espionage","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/"
-"524","2019-11-29","Attack of  Japanese companies with links to China - Bronze Butler","China-linked espionage group Bronze Butler targeted companies with head offices in Japan and subsidiaries in China to try to steal highly classified information.","CYBER INCIDENT","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/",NA,NA,"Japanese organizations with subsidiaries in China","Private sector","Espionage","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/"
-"3","2019-11-01","Japan sounds warning on China’s growing military might","InterviewJapanese politics & policyJapan sounds warning on China’s growing military mightDefence minister Taro Kono says new missile systems have added to ‘global anxiety’							
+									","https://www.ft.com/content/9e897000-22ef-11ea-b8a1-584213ee7b2b","",NA,NA,NA,NA,NA,NA
+"526","2019-12-12","CYBER INCIDENT","Targeting of telecom companies across Africa, Europe, and Southeast Asia - Gallium","Gallium, an allegedly China-aligned threat actor, attacked telecom companies across the globe for several months.","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",NA,NA,"Telecom companies in Africa, Europe, and Southeast Asia","Private sector","Espionage","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/","https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/"
+"519","2019-12-07","CYBER INCIDENT","Targeting of the Cambodian government - Rancor","The China-linked threat actor group Rancor targeted unnamed Cambodian government entities.","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/",NA,NA,"Cambodian government","Government","Espionage","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/","https://www.cyberscoop.com/rancor-group-cambodia-palo-alto-networks/"
+"524","2019-11-29","CYBER INCIDENT","Attack of  Japanese companies with links to China - Bronze Butler","China-linked espionage group Bronze Butler targeted companies with head offices in Japan and subsidiaries in China to try to steal highly classified information.","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/",NA,NA,"Japanese organizations with subsidiaries in China","Private sector","Espionage","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/","https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/"
+"3","2019-11-01","NEWS","Japan sounds warning on China’s growing military might","InterviewJapanese politics & policyJapan sounds warning on China’s growing military mightDefence minister Taro Kono says new missile systems have added to ‘global anxiety’							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/eb5191ee-fbbf-11e9-a354-36acbbb0d9b6","InterviewJapanese politics & policy",NA,NA,NA,NA,NA,NA
-"520","2019-10-03","PKplug - China","A Chinese-linked threat actor group active in Southeast Asia","CYBER INCIDENT","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/",NA,NA,"","","","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/"
-"523","2019-10-03","Attacks in East and Southeast Asia - PKplug","Chinese government threat actor PKplug targeted organizations in East and Southeast Asia.","CYBER INCIDENT","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/",NA,NA,"","","Espionage","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/"
-"518","2019-10-02","Targeting of Japanese organizations - APT 17 and Bronze Butler","Two Chinese government threat actors used a number of zero-day vulnerabilities in common Japanese software to target Japanese organizations over the course of several years.","CYBER INCIDENT","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/",NA,NA,"Japanese organizations","Private sector","Espionage","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/"
-"4","2019-10-01","North Korea fires two missiles, one lands in Japan’s EEZ","North KoreaNorth Korea fires two missiles, one lands in Japan’s EEZ							
+									","https://www.ft.com/content/eb5191ee-fbbf-11e9-a354-36acbbb0d9b6","InterviewJapanese politics & policy",NA,NA,NA,NA,NA,NA
+"520","2019-10-03","CYBER INCIDENT","PKplug - China","A Chinese-linked threat actor group active in Southeast Asia","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/",NA,NA,"","","","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/"
+"523","2019-10-03","CYBER INCIDENT","Attacks in East and Southeast Asia - PKplug","Chinese government threat actor PKplug targeted organizations in East and Southeast Asia.","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/",NA,NA,"","","Espionage","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/","https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/"
+"518","2019-10-02","CYBER INCIDENT","Targeting of Japanese organizations - APT 17 and Bronze Butler","Two Chinese government threat actors used a number of zero-day vulnerabilities in common Japanese software to target Japanese organizations over the course of several years.","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/",NA,NA,"Japanese organizations","Private sector","Espionage","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/","https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/"
+"4","2019-10-01","NEWS","North Korea fires two missiles, one lands in Japan’s EEZ","North KoreaNorth Korea fires two missiles, one lands in Japan’s EEZ							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/bf0022d8-e4a2-11e9-9743-db5a370481bc","North Korea",NA,NA,NA,NA,NA,NA
-"5","2019-09-25","China launches naval assault vessel","Chinese militaryChina launches naval assault vesselAmphibious ship boosts Beijing’s capabilities of mobilising Taiwan invasion force							
+									","https://www.ft.com/content/bf0022d8-e4a2-11e9-9743-db5a370481bc","North Korea",NA,NA,NA,NA,NA,NA
+"5","2019-09-25","NEWS","China launches naval assault vessel","Chinese militaryChina launches naval assault vesselAmphibious ship boosts Beijing’s capabilities of mobilising Taiwan invasion force							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/3a3db746-df88-11e9-9743-db5a370481bc","Chinese military",NA,NA,NA,NA,NA,NA
-"517","2019-09-05","Targeting of telecommunications operators in countries through which Uighurs are known to travel - Believed to be the work of Chinese state-sponsored hackers.","Multiple threat actors compromised telecoms networks across Central and Southeast Asia. The attacks were part of a wider cyber-espionage campaign targeting diplomats and state officials, and they signal China's ability and intent to track the movements of Uighurs along a number of transit routes that they use to escape state persecution.","CYBER INCIDENT","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5",NA,NA,"","Civil society","Espionage","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5"
-"6","2019-08-23","US accuses China of ‘coercion’ over Vietnam offshore oil","US accuses China of ‘coercion’ over Vietnam offshore oilState department says Beijing’s ship deployments are intimidating other countries							
+									","https://www.ft.com/content/3a3db746-df88-11e9-9743-db5a370481bc","Chinese military",NA,NA,NA,NA,NA,NA
+"517","2019-09-05","CYBER INCIDENT","Targeting of telecommunications operators in countries through which Uighurs are known to travel - Believed to be the work of Chinese state-sponsored hackers.","Multiple threat actors compromised telecoms networks across Central and Southeast Asia. The attacks were part of a wider cyber-espionage campaign targeting diplomats and state officials, and they signal China's ability and intent to track the movements of Uighurs along a number of transit routes that they use to escape state persecution.","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5",NA,NA,"","Civil society","Espionage","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5","https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5"
+"6","2019-08-23","NEWS","US accuses China of ‘coercion’ over Vietnam offshore oil","US accuses China of ‘coercion’ over Vietnam offshore oilState department says Beijing’s ship deployments are intimidating other countries							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/b26ac618-c553-11e9-a8e9-296ca66511c9","",NA,NA,NA,NA,NA,NA
-"521","2019-08-07","APT 41","This threat actor has, since 2014, conducted operations backed by the Chinese government, including targeting the health-care and high-tech sectors and conducting espionage against political dissidents. It has simultaneously conducted its own for-profit illicit activity in the video games industry, amassing millions of dollars in digital currency to be sold to gamers on the black market. The threat actor operates outside of state control but is linked to other Chinese APT malware actors and tools on a part-time or contractual basis, or is a full-time, state-sponsored APT actor that simultaneously conducts nonstate campaigns for supplemental income. This threat actor is a notable example of the blurring lines between state-sponsored and commercial cyber criminals.","CYBER INCIDENT","https://content.fireeye.com/apt-41/rpt-apt41/",NA,NA,"United States, France, Japan, Singapore, United Kingdom, Hong Kong","Government, Private sector","Espionage","https://content.fireeye.com/apt-41/rpt-apt41/","https://content.fireeye.com/apt-41/rpt-apt41/"
-"7","2019-07-23","S Korea jets fire shots at Russian military aircraft ","South KoreaS Korea jets fire shots at Russian military aircraft Aerial engagement follows first joint Sino-Russian long-range air patrol in Asia							
+									","https://www.ft.com/content/b26ac618-c553-11e9-a8e9-296ca66511c9","",NA,NA,NA,NA,NA,NA
+"521","2019-08-07","CYBER INCIDENT","APT 41","This threat actor has, since 2014, conducted operations backed by the Chinese government, including targeting the health-care and high-tech sectors and conducting espionage against political dissidents. It has simultaneously conducted its own for-profit illicit activity in the video games industry, amassing millions of dollars in digital currency to be sold to gamers on the black market. The threat actor operates outside of state control but is linked to other Chinese APT malware actors and tools on a part-time or contractual basis, or is a full-time, state-sponsored APT actor that simultaneously conducts nonstate campaigns for supplemental income. This threat actor is a notable example of the blurring lines between state-sponsored and commercial cyber criminals.","https://content.fireeye.com/apt-41/rpt-apt41/",NA,NA,"United States, France, Japan, Singapore, United Kingdom, Hong Kong","Government, Private sector","Espionage","https://content.fireeye.com/apt-41/rpt-apt41/","https://content.fireeye.com/apt-41/rpt-apt41/"
+"7","2019-07-23","NEWS","S Korea jets fire shots at Russian military aircraft ","South KoreaS Korea jets fire shots at Russian military aircraft Aerial engagement follows first joint Sino-Russian long-range air patrol in Asia							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/0c1e8550-acf4-11e9-8030-530adfa879c2","South Korea",NA,NA,NA,NA,NA,NA
-"8","2019-07-17","Chinese and Vietnamese ships in South China Sea stand-off","Chinese and Vietnamese ships in South China Sea stand-offMaritime analysts warn of escalation into dangerous confrontation in disputed waters							
+									","https://www.ft.com/content/0c1e8550-acf4-11e9-8030-530adfa879c2","South Korea",NA,NA,NA,NA,NA,NA
+"8","2019-07-17","NEWS","Chinese and Vietnamese ships in South China Sea stand-off","Chinese and Vietnamese ships in South China Sea stand-offMaritime analysts warn of escalation into dangerous confrontation in disputed waters							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/cb7f117c-a834-11e9-984c-fac8325aaa04","",NA,NA,NA,NA,NA,NA
-"9","2019-06-21","Hong Kong denies entry to ex-Philippine envoy and China critic","PhilippinesHong Kong denies entry to ex-Philippine envoy and China criticAlbert del Rosario had accused Xi Jinping of crimes against humanity							
+									","https://www.ft.com/content/cb7f117c-a834-11e9-984c-fac8325aaa04","",NA,NA,NA,NA,NA,NA
+"9","2019-06-21","NEWS","Hong Kong denies entry to ex-Philippine envoy and China critic","PhilippinesHong Kong denies entry to ex-Philippine envoy and China criticAlbert del Rosario had accused Xi Jinping of crimes against humanity							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/ed28c734-93f6-11e9-aea1-2b1d33ac3271","Philippines",NA,NA,NA,NA,NA,NA
-"10","2019-06-20","Duterte under pressure over China boat attack","AnalysisPhilippinesDuterte under pressure over China boat attackAs abandoned fishermen ‘left to die’, public anger grows at Philippine president for apparently siding with Beijing							
+									","https://www.ft.com/content/ed28c734-93f6-11e9-aea1-2b1d33ac3271","Philippines",NA,NA,NA,NA,NA,NA
+"10","2019-06-20","NEWS","Duterte under pressure over China boat attack","AnalysisPhilippinesDuterte under pressure over China boat attackAs abandoned fishermen ‘left to die’, public anger grows at Philippine president for apparently siding with Beijing							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/680621ba-9328-11e9-aea1-2b1d33ac3271","AnalysisPhilippines",NA,NA,NA,NA,NA,NA
-"11","2019-06-07","US and Russian navies in close Pacific encounter","US and Russian navies in close Pacific encounterDestroyer and cruiser came close to collision south of Japan							
+									","https://www.ft.com/content/680621ba-9328-11e9-aea1-2b1d33ac3271","AnalysisPhilippines",NA,NA,NA,NA,NA,NA
+"11","2019-06-07","NEWS","US and Russian navies in close Pacific encounter","US and Russian navies in close Pacific encounterDestroyer and cruiser came close to collision south of Japan							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/8bd6ea44-8940-11e9-a028-86cea8523dc2","",NA,NA,NA,NA,NA,NA
-"12","2019-06-02","Asian ministers warn US-China tensions raise risk of war","US-China trade disputeAsian ministers warn US-China tensions raise risk of warLessons of past recalled as Beijing and Washington talk tough at security forum 							
+									","https://www.ft.com/content/8bd6ea44-8940-11e9-a028-86cea8523dc2","",NA,NA,NA,NA,NA,NA
+"12","2019-06-02","NEWS","Asian ministers warn US-China tensions raise risk of war","US-China trade disputeAsian ministers warn US-China tensions raise risk of warLessons of past recalled as Beijing and Washington talk tough at security forum 							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/12221dae-8512-11e9-a028-86cea8523dc2","US-China trade dispute",NA,NA,NA,NA,NA,NA
-"13","2019-05-30","Chinese and US navies must bring down tensions","Zhou BoChinese and US navies must bring down tensionsAmericans should think carefully about how to deal with their rising rival							
+									","https://www.ft.com/content/12221dae-8512-11e9-a028-86cea8523dc2","US-China trade dispute",NA,NA,NA,NA,NA,NA
+"13","2019-05-30","NEWS","Chinese and US navies must bring down tensions","Zhou BoChinese and US navies must bring down tensionsAmericans should think carefully about how to deal with their rising rival							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/bbd579b6-814a-11e9-a7f0-77d3101896ec","Zhou Bo",NA,NA,NA,NA,NA,NA
-"14","2019-05-27","Australia steps up Pacific presence with PM’s visit to Solomons","AustraliaAustralia steps up Pacific presence with PM’s visit to SolomonsScott Morrison’s trip comes in wake of growing Chinese influence in region							
+									","https://www.ft.com/content/bbd579b6-814a-11e9-a7f0-77d3101896ec","Zhou Bo",NA,NA,NA,NA,NA,NA
+"14","2019-05-27","NEWS","Australia steps up Pacific presence with PM’s visit to Solomons","AustraliaAustralia steps up Pacific presence with PM’s visit to SolomonsScott Morrison’s trip comes in wake of growing Chinese influence in region							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/e3c00d26-8049-11e9-b592-5fe435b57a3b","Australia",NA,NA,NA,NA,NA,NA
-"525","2019-05-06","Chinese intelligence repurposed NSA tools to attack private companies - APT 3","The threat actor repurposed hacking tools used against them by the U.S. National Security Agency (NSA) to attack private companies in Asia and Europe. These attacks went undetected for two years.","CYBER INCIDENT","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit",NA,NA,"Belgium, Luxembourg, The Philippines, and Vietnam","Private sector","Espionage","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit"
-"15","2019-04-28","US warns China on aggressive acts by fishing boats and coast guard","US warns China on aggressive acts by fishing boats and coast guardNavy chief says Washington will use military rules of engagement to curb provocative behaviour							
+									","https://www.ft.com/content/e3c00d26-8049-11e9-b592-5fe435b57a3b","Australia",NA,NA,NA,NA,NA,NA
+"525","2019-05-06","CYBER INCIDENT","Chinese intelligence repurposed NSA tools to attack private companies - APT 3","The threat actor repurposed hacking tools used against them by the U.S. National Security Agency (NSA) to attack private companies in Asia and Europe. These attacks went undetected for two years.","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit",NA,NA,"Belgium, Luxembourg, The Philippines, and Vietnam","Private sector","Espionage","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit","https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit"
+"15","2019-04-28","NEWS","US warns China on aggressive acts by fishing boats and coast guard","US warns China on aggressive acts by fishing boats and coast guardNavy chief says Washington will use military rules of engagement to curb provocative behaviour							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/ab4b1602-696a-11e9-80c7-60ee53e6681d","",NA,NA,NA,NA,NA,NA
-"16","2019-04-25","China accuses France of illegal Taiwan Strait incursion","China accuses France of illegal Taiwan Strait incursionBeijing steps up rhetoric in sign of rising tensions over status of island nation							
+									","https://www.ft.com/content/ab4b1602-696a-11e9-80c7-60ee53e6681d","",NA,NA,NA,NA,NA,NA
+"16","2019-04-25","NEWS","China accuses France of illegal Taiwan Strait incursion","China accuses France of illegal Taiwan Strait incursionBeijing steps up rhetoric in sign of rising tensions over status of island nation							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/12f4ff22-674d-11e9-9adc-98bf1d35a056","",NA,NA,NA,NA,NA,NA
-"17","2019-04-21","China to showcase growing naval power with parade at sea","AnalysisChina to showcase growing naval power with parade at seaEvent aimed at building ties with other militaries and inspiring national pride							
+									","https://www.ft.com/content/12f4ff22-674d-11e9-9adc-98bf1d35a056","",NA,NA,NA,NA,NA,NA
+"17","2019-04-21","NEWS","China to showcase growing naval power with parade at sea","AnalysisChina to showcase growing naval power with parade at seaEvent aimed at building ties with other militaries and inspiring national pride							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/489d138a-627a-11e9-b285-3acd5d43599e","Analysis",NA,NA,NA,NA,NA,NA
-"18","2019-04-08","China’s maritime claims are a warning to Europe","beyondbricsEmerging marketsChina’s maritime claims are a warning to EuropeAttempts to change the status quo by force are a threat to the rule of law							
+									","https://www.ft.com/content/489d138a-627a-11e9-b285-3acd5d43599e","Analysis",NA,NA,NA,NA,NA,NA
+"18","2019-04-08","NEWS","China’s maritime claims are a warning to Europe","beyondbricsEmerging marketsChina’s maritime claims are a warning to EuropeAttempts to change the status quo by force are a threat to the rule of law							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/1ab003c8-5790-11e9-91f9-b6515a54c5b1","beyondbricsEmerging markets",NA,NA,NA,NA,NA,NA
-"522","2019-03-05","Targeting of universities' maritime military secrets - Believed to be the work of Leviathan.","Chinese hackers targeted twenty-seven universities in the United States, Canada, and Southeast Asia as part of a scheme to steal research about maritime technology under development for military use.","CYBER INCIDENT","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800",NA,NA,"University of Hawaii, University of Washington, Massachusetts Institute of Technology , Pennsylvania State University, Duke University","Civil society, Private sector","Espionage","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800"
-"19","2019-03-01","Pompeo assures Philippines of South China Sea defence","US politics & policyPompeo assures Philippines of South China Sea defenceBeijing’s island-building and militarisation constitute threat to sovereignty says US							
+									","https://www.ft.com/content/1ab003c8-5790-11e9-91f9-b6515a54c5b1","beyondbricsEmerging markets",NA,NA,NA,NA,NA,NA
+"522","2019-03-05","CYBER INCIDENT","Targeting of universities' maritime military secrets - Believed to be the work of Leviathan.","Chinese hackers targeted twenty-seven universities in the United States, Canada, and Southeast Asia as part of a scheme to steal research about maritime technology under development for military use.","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800",NA,NA,"University of Hawaii, University of Washington, Massachusetts Institute of Technology , Pennsylvania State University, Duke University","Civil society, Private sector","Espionage","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800","https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800"
+"19","2019-03-01","NEWS","Pompeo assures Philippines of South China Sea defence","US politics & policyPompeo assures Philippines of South China Sea defenceBeijing’s island-building and militarisation constitute threat to sovereignty says US							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/d7bee564-3bf8-11e9-b72b-2c7f526ca5d0","US politics & policy",NA,NA,NA,NA,NA,NA
-"20","2019-01-20","Clouds gather over Putin-Abe island dispute talks","Clouds gather over Putin-Abe island dispute talksRussian officials seek to play down potential for agreement over Kurils islands							
+									","https://www.ft.com/content/d7bee564-3bf8-11e9-b72b-2c7f526ca5d0","US politics & policy",NA,NA,NA,NA,NA,NA
+"20","2019-01-20","NEWS","Clouds gather over Putin-Abe island dispute talks","Clouds gather over Putin-Abe island dispute talksRussian officials seek to play down potential for agreement over Kurils islands							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/d43d043e-1afb-11e9-9e64-d150b3105d21","",NA,NA,NA,NA,NA,NA
-"21","2018-11-28","Russia and Japan push to resolve Kuril Islands dispute","AnalysisRussia and Japan push to resolve Kuril Islands disputeVladimir Putin and Shinzo Abe explore deal but chances of success remain slim							
+									","https://www.ft.com/content/d43d043e-1afb-11e9-9e64-d150b3105d21","",NA,NA,NA,NA,NA,NA
+"21","2018-11-28","NEWS","Russia and Japan push to resolve Kuril Islands dispute","AnalysisRussia and Japan push to resolve Kuril Islands disputeVladimir Putin and Shinzo Abe explore deal but chances of success remain slim							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/763b2eb2-f2f4-11e8-ae55-df4bf40f9d0d","Analysis",NA,NA,NA,NA,NA,NA
-"22","2018-11-23","Dominant China pushes for oil and gas deals in Asia","AnalysisDominant China pushes for oil and gas deals in AsiaJoint exploration with Brunei and Philippines could help strengthen maritime claims							
+									","https://www.ft.com/content/763b2eb2-f2f4-11e8-ae55-df4bf40f9d0d","Analysis",NA,NA,NA,NA,NA,NA
+"22","2018-11-23","NEWS","Dominant China pushes for oil and gas deals in Asia","AnalysisDominant China pushes for oil and gas deals in AsiaJoint exploration with Brunei and Philippines could help strengthen maritime claims							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/fbc10072-eece-11e8-89c8-d36339d835c0","Analysis",NA,NA,NA,NA,NA,NA
-"23","2018-11-21","China and Philippines sign oil and gas deal","China and Philippines sign oil and gas dealBeijing and Manila deepen ties with memorandum of understanding over South China Sea							
+									","https://www.ft.com/content/fbc10072-eece-11e8-89c8-d36339d835c0","Analysis",NA,NA,NA,NA,NA,NA
+"23","2018-11-21","NEWS","China and Philippines sign oil and gas deal","China and Philippines sign oil and gas dealBeijing and Manila deepen ties with memorandum of understanding over South China Sea							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/a4bf926e-ecb9-11e8-89c8-d36339d835c0","",NA,NA,NA,NA,NA,NA
-"24","2018-11-01","US-China military tension heightens over Taiwan","AnalysisUS-China military tension heightens over TaiwanObama-era talk of co-operation turns to confrontation under hardliners Trump and Xi							
+									","https://www.ft.com/content/a4bf926e-ecb9-11e8-89c8-d36339d835c0","",NA,NA,NA,NA,NA,NA
+"24","2018-11-01","NEWS","US-China military tension heightens over Taiwan","AnalysisUS-China military tension heightens over TaiwanObama-era talk of co-operation turns to confrontation under hardliners Trump and Xi							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/1fbbfa1c-dcab-11e8-8f50-cbae5495d92b","Analysis",NA,NA,NA,NA,NA,NA
-"25","2018-10-25","China defence chief criticises ‘dangerous’ US stance","China defence chief criticises ‘dangerous’ US stanceSigns of tension over Taiwan and South China Sea at People’s Liberation Army forum							
+									","https://www.ft.com/content/1fbbfa1c-dcab-11e8-8f50-cbae5495d92b","Analysis",NA,NA,NA,NA,NA,NA
+"25","2018-10-25","NEWS","China defence chief criticises ‘dangerous’ US stance","China defence chief criticises ‘dangerous’ US stanceSigns of tension over Taiwan and South China Sea at People’s Liberation Army forum							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/09b064dc-d815-11e8-a854-33d6f82e62f8","",NA,NA,NA,NA,NA,NA
-"26","2018-10-22","Royal Navy vows to send ships through South China Sea","UK defence spendingRoyal Navy vows to send ships through South China SeaFirst Sea Lord says Britain must ‘showcase’ support for its Pacific allies							
+									","https://www.ft.com/content/09b064dc-d815-11e8-a854-33d6f82e62f8","",NA,NA,NA,NA,NA,NA
+"26","2018-10-22","NEWS","Royal Navy vows to send ships through South China Sea","UK defence spendingRoyal Navy vows to send ships through South China SeaFirst Sea Lord says Britain must ‘showcase’ support for its Pacific allies							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/efe13b86-d507-11e8-ab8e-6be0dcf18713","UK defence spending",NA,NA,NA,NA,NA,NA
-"27","2018-10-19","South Korea plans blue-water naval fleet","South Korea plans blue-water naval fleetSeoul to operate in ‘far seas’ amid doubts over US commitment to north-east Asia							
+									","https://www.ft.com/content/efe13b86-d507-11e8-ab8e-6be0dcf18713","UK defence spending",NA,NA,NA,NA,NA,NA
+"27","2018-10-19","NEWS","South Korea plans blue-water naval fleet","South Korea plans blue-water naval fleetSeoul to operate in ‘far seas’ amid doubts over US commitment to north-east Asia							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/b598f570-d34c-11e8-a9f2-7574db66bcd5","",NA,NA,NA,NA,NA,NA
-"28","2018-10-03","Why the US-China stand-off is bad for investors","John RedwoodWhy the US-China stand-off is bad for investorsBehind the trade conflict is a long-term battle for power							
+									","https://www.ft.com/content/b598f570-d34c-11e8-a9f2-7574db66bcd5","",NA,NA,NA,NA,NA,NA
+"28","2018-10-03","NEWS","Why the US-China stand-off is bad for investors","John RedwoodWhy the US-China stand-off is bad for investorsBehind the trade conflict is a long-term battle for power							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/d23fdec0-c58a-11e8-ae3e-791a4e15cf9e","John Redwood",NA,NA,NA,NA,NA,NA
-"29","2018-09-17","Japan admits to South China Sea naval exercises ","Japan admits to South China Sea naval exercises Tokyo’s acknowledgment could irritate Beijing despite warming relations							
+									","https://www.ft.com/content/d23fdec0-c58a-11e8-ae3e-791a4e15cf9e","John Redwood",NA,NA,NA,NA,NA,NA
+"29","2018-09-17","NEWS","Japan admits to South China Sea naval exercises ","Japan admits to South China Sea naval exercises Tokyo’s acknowledgment could irritate Beijing despite warming relations							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/708a5af8-ba62-11e8-94b2-17176fbf93f5","",NA,NA,NA,NA,NA,NA
-"532","2018-07-10","Compromise of Cambodian election organizations - Believed to be the work of Leviathan","A threat actor compromises opposition parties, as well as organizations charged with overseeing the 2018 Cambodian elections, for espionage purposes.","CYBER INCIDENT","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html",NA,NA,"Cambodia","Government, Private sector","Espionage","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html"
-"30","2018-07-01","Washington and its allies need to contain Beijing","The FT ViewUS foreign policyWashington and its allies need to contain BeijingUS should not acquiesce to Chinese dominance of the South China Sea							
+									","https://www.ft.com/content/708a5af8-ba62-11e8-94b2-17176fbf93f5","",NA,NA,NA,NA,NA,NA
+"532","2018-07-10","CYBER INCIDENT","Compromise of Cambodian election organizations - Believed to be the work of Leviathan","A threat actor compromises opposition parties, as well as organizations charged with overseeing the 2018 Cambodian elections, for espionage purposes.","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html",NA,NA,"Cambodia","Government, Private sector","Espionage","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html","https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html"
+"30","2018-07-01","NEWS","Washington and its allies need to contain Beijing","The FT ViewUS foreign policyWashington and its allies need to contain BeijingUS should not acquiesce to Chinese dominance of the South China Sea							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/fe1e25fa-7bbc-11e8-8e67-1e1a0846c475","The FT ViewUS foreign policy",NA,NA,NA,NA,NA,NA
-"31","2018-06-28","China rejects US concerns over South China Sea","China rejects US concerns over South China SeaXi Jinping tells Jim Mattis that China will not yield ‘one inch’ of disputed maritime area							
+									","https://www.ft.com/content/fe1e25fa-7bbc-11e8-8e67-1e1a0846c475","The FT ViewUS foreign policy",NA,NA,NA,NA,NA,NA
+"31","2018-06-28","NEWS","China rejects US concerns over South China Sea","China rejects US concerns over South China SeaXi Jinping tells Jim Mattis that China will not yield ‘one inch’ of disputed maritime area							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/fa0f1d78-7a7e-11e8-bc55-50daf11b720d","",NA,NA,NA,NA,NA,NA
-"32","2018-06-27","Mattis takes aim at China military expansionism","Mattis takes aim at China military expansionismUS defence secretary to deliver ‘medium tough’ message to Beijing as trade tensions flare							
+									","https://www.ft.com/content/fa0f1d78-7a7e-11e8-bc55-50daf11b720d","",NA,NA,NA,NA,NA,NA
+"32","2018-06-27","NEWS","Mattis takes aim at China military expansionism","Mattis takes aim at China military expansionismUS defence secretary to deliver ‘medium tough’ message to Beijing as trade tensions flare							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/d86b2fe4-79a8-11e8-bc55-50daf11b720d","",NA,NA,NA,NA,NA,NA
-"528","2018-06-26","Rancor - Believed to use similar tools as DragonOK","This threat actor uses spear-phishing techniques to target political organizations in Southeast Asia, for the purpose of espionage.","CYBER INCIDENT","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",NA,NA,"Singapore, Cambodia","Government, Civil society","Espionage","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/"
-"527","2018-06-19","Thrip - Also known as Billbug and Lotus Blossom.","This threat actor targets organizations in the satellite communications, telecommunications, geospatial-imaging, and defense sectors in the United States and Southeast Asia for espionage purposes.","CYBER INCIDENT","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",NA,NA,"United States","Private sector","Espionage","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets"
-"33","2018-06-17","S Korea embarks on war games over disputed islets","S Korea embarks on war games over disputed isletsSovereignty of Dokdo remains hot-button issue between Seoul and Tokyo							
+									","https://www.ft.com/content/d86b2fe4-79a8-11e8-bc55-50daf11b720d","",NA,NA,NA,NA,NA,NA
+"528","2018-06-26","CYBER INCIDENT","Rancor - Believed to use similar tools as DragonOK","This threat actor uses spear-phishing techniques to target political organizations in Southeast Asia, for the purpose of espionage.","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",NA,NA,"Singapore, Cambodia","Government, Civil society","Espionage","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/","https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/"
+"527","2018-06-19","CYBER INCIDENT","Thrip - Also known as Billbug and Lotus Blossom.","This threat actor targets organizations in the satellite communications, telecommunications, geospatial-imaging, and defense sectors in the United States and Southeast Asia for espionage purposes.","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",NA,NA,"United States","Private sector","Espionage","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets","https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets"
+"33","2018-06-17","NEWS","S Korea embarks on war games over disputed islets","S Korea embarks on war games over disputed isletsSovereignty of Dokdo remains hot-button issue between Seoul and Tokyo							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/1a19a99a-7209-11e8-aa31-31da4279a601","",NA,NA,NA,NA,NA,NA
-"34","2018-06-08","China and Japan open hotline to prevent military clash","China and Japan open hotline to prevent military clashMove to stop accidental conflicts by air or sea is latest sign of warming relations							
+									","https://www.ft.com/content/1a19a99a-7209-11e8-aa31-31da4279a601","",NA,NA,NA,NA,NA,NA
+"34","2018-06-08","NEWS","China and Japan open hotline to prevent military clash","China and Japan open hotline to prevent military clashMove to stop accidental conflicts by air or sea is latest sign of warming relations							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/0f8a55be-6ae4-11e8-8cf3-0c230fa67aec","",NA,NA,NA,NA,NA,NA
-"529","2018-06-05","TempTick - Believed to be responsible for the targeting of South Korean actors prior to the meeting of Donald J. Trump and Kim Jong-un.","This threat actor targets organizations in the finance, defense, aerospace, technology, health-care, and automotive sectors and media organizations in East Asia for the purpose of espionage. This threat actor is also known for targeting a South Korean company that produces USB sticks generally used to transfer data to air-gapped networks.","CYBER INCIDENT","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642",NA,NA,"South Korea, Japan","Government, Private sector","","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642"
-"35","2018-06-02","Mattis attacks Beijing for South China Sea ‘coercion’","Mattis attacks Beijing for South China Sea ‘coercion’US defence secretary also hits out at Xi Jinping’s Belt and Road Initiative							
+									","https://www.ft.com/content/0f8a55be-6ae4-11e8-8cf3-0c230fa67aec","",NA,NA,NA,NA,NA,NA
+"529","2018-06-05","CYBER INCIDENT","TempTick - Believed to be responsible for the targeting of South Korean actors prior to the meeting of Donald J. Trump and Kim Jong-un.","This threat actor targets organizations in the finance, defense, aerospace, technology, health-care, and automotive sectors and media organizations in East Asia for the purpose of espionage. This threat actor is also known for targeting a South Korean company that produces USB sticks generally used to transfer data to air-gapped networks.","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642",NA,NA,"South Korea, Japan","Government, Private sector","","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642","https://www.wsj.com/articles/south-korea-fends-off-chinese-russian-cyberattacks-u-s-researcher-says-1528194642"
+"35","2018-06-02","NEWS","Mattis attacks Beijing for South China Sea ‘coercion’","Mattis attacks Beijing for South China Sea ‘coercion’US defence secretary also hits out at Xi Jinping’s Belt and Road Initiative							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/e35a488c-6615-11e8-90c2-9563a0613e56","",NA,NA,NA,NA,NA,NA
-"36","2018-06-01","SE Asia said to be losing maritime ‘arms race’","SE Asia said to be losing maritime ‘arms race’Philippine defence chief Lorenzana accuses Beijing of intimidation in South China Sea							
+									","https://www.ft.com/content/e35a488c-6615-11e8-90c2-9563a0613e56","",NA,NA,NA,NA,NA,NA
+"36","2018-06-01","NEWS","SE Asia said to be losing maritime ‘arms race’","SE Asia said to be losing maritime ‘arms race’Philippine defence chief Lorenzana accuses Beijing of intimidation in South China Sea							
 																	
 																	
 																				Save
 																		
 																	
-									","NEWS","https://www.ft.com/content/a13938f6-6579-11e8-90c2-9563a0613e56","",NA,NA,NA,NA,NA,NA
+									","https://www.ft.com/content/a13938f6-6579-11e8-90c2-9563a0613e56","",NA,NA,NA,NA,NA,NA
