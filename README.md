@@ -18,8 +18,7 @@ This is useful for attempting to correlate Chinese cyber-activity with geopoliti
 - https://www.ft.com/indepth/asia-maritime-tensions?page=1 
 
 ### Datasets
-For the combined cyber-incident datasets only, see "cyber_incident_datasets_combined.RData" in the datasets folder.
-For the maritime-news dataset only, see "maritime_disputes_FT.RData"
-For the combined cyber incident and maritime news dataset, "see maritime_news_and_cyber_incidents_datasets_combined.RData"
-
-To view a sample of the data in CSV format on Github, see the dataset ['sample_first_fifty_rows.csv'](https://github.com/nehmbreezy/maritime-cyber/blob/master/datasets/maritime_cyber_sample_first_fifty_rows.csv)
+- For the combined cyber-incident datasets only, see [cyber_incident_datasets_combined.RData](https://github.com/nehmbreezy/maritime-cyber/blob/master/datasets/cyber_incident_datasets_combined.RData) in the datasets folder.
+- For the maritime-news dataset only, see [maritime_disputes_FT.RData](https://github.com/nehmbreezy/maritime-cyber/blob/master/datasets/maritime_disputes_FT.RData)
+- For the combined cyber incident and maritime news dataset, see [maritime_news_and_cyber_incidents_datasets_combined.RData](https://github.com/nehmbreezy/maritime-cyber/blob/master/datasets/maritime_news_and_cyber_incidents_datasets_combined.RData
+- To view a sample of the data in CSV format on Github, see the dataset ['sample_first_fifty_rows.csv'](https://github.com/nehmbreezy/maritime-cyber/blob/master/datasets/maritime_cyber_sample_first_fifty_rows.csv)
