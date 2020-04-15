@@ -13,8 +13,8 @@ This is useful for attempting to correlate Chinese cyber-activity with geopoliti
 - Cyber Operations Tracker, Digital and Cyberspace Policy Program, Council on Foreign Relations, covering 2011-2020.
 - https://www.cfr.org/interactive/cyber-operations
 
-### "Asia maritime tensions" News 
-- 21 pages, or over 500 articles, covering any news to do with East or South East Asian maritime tensions from the year 2011 to 2020.
+### "Asia maritime tensions" News
+- 21 pages, or over 500 articles, from the Financial Times. Covering any news to do with East or South East Asian maritime tensions from the year 2011 to 2020.
 - https://www.ft.com/indepth/asia-maritime-tensions?page=1 
 
 ### Datasets
